@@ -68,7 +68,7 @@ Hackathon sponser-TATA POWER & MINDSPARK
  content strategies.
 ## Most common time of the day when people searched for "Renewable and sustainable energy"content
 
-12:16 PM
+15:00 
 
 ## Most frequenctly used keywords in "Renewable energy vedios"
 
