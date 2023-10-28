@@ -98,5 +98,57 @@ climate: 6 times
 
 It has been found after proper analysis that people like,comment and view mostly vedios that are of duration 13 and 17 minutes.
 
+People don't really like long(>20 mins) or very short videos.
+
+
+Vedio engagement
+It has been found after proper analysis that people like,comment and view mostly vedios that are of duration 13 and 17 minutes.
+
 People don't really like long(>20 mins) or very short vedios.
+
+What else the viewers are watching with relavance to "Renewable energy and sustainability"
+Cross Content Engagement
+
+Zero waste and minimalism
+
+Eco-friendly products and brands
+
+Climate change mitigation and adaptation
+
+Green living and sustainable lifestyle
+
+Organic and local food
+
+Environmental conservation and wildlife protection
+
+Circular economy and upcycling
+
+Social impact and sustainability in business
+
+Sustainable travel and ecotourism
+
+Total number of vedios analyzed
+50
+
+###total duration =460 hours
+
+##sum of likes=462K
+
+##Sum of comments=70K
+
+##Sum of views=24M
+
+##Postive keywords in comments
+
+Ecofriendly
+
+Clean Energy
+
+Renewable source
+
+Carbon Footprint Reduction
+
+Sustainable
+
+
 
