@@ -94,7 +94,7 @@ https: 6 times
 
 climate: 6 times
 
-## Vedio engagement
+## Video engagement
 
 It has been found after proper analysis that people like,comment and view mostly vedios that are of duration 13 and 17 minutes.
 
